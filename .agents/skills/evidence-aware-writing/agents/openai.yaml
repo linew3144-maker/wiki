@@ -1,4 +1,0 @@
-interface:
-  display_name: "证据边界写作助手"
-  short_description: "辅助论文表达已有发现，减少冗余辩解并保留证据范围与必要限定"
-  default_prompt: "请用 $evidence-aware-writing 润色这段论文，清楚表达已有发现，保留事实、比较条件和必要限定。"
